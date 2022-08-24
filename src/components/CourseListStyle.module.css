@@ -1,0 +1,63 @@
+.course_container {
+  justify-content: space-around;
+
+  width: 90%;
+  margin: 20px 20px 20px 60px;
+  padding: 30px;
+  border: 1px solid rgb(188, 188, 188);
+  box-shadow: 0 1px 2px rgb(0 0 0 / 8%), 0 2px 6px rgb(0 0 0 / 8%);
+}
+.python_explore {
+  font-size: 0.85rem;
+  font-weight: bold;
+  border: 1px solid black;
+  color: black !important;
+  padding: 0.7em 0.85em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+.python_explore:hover {
+  background-color: aliceblue;
+}
+.card {
+  justify-content: space-around;
+
+  /* margin-top: 50px; */
+  display: inline-flex;
+  width: 16rem;
+  margin: 1rem 1rem 1rem 0rem;
+}
+.card figure {
+  justify-content: space-around;
+
+  margin: 0px;
+}
+.card a:hover {
+  color: black;
+}
+.people {
+  font-size: small;
+}
+.courses_list img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border: 1px solid lightgray;
+}
+
+.Card {
+  justify-content: space-around;
+  font-family: udemy sans, sf pro text, -apple-system, BlinkMacSystemFont,
+    Roboto, segoe ui, Helvetica, Arial, sans-serif, apple color emoji,
+    segoe ui emoji, segoe ui symbol;
+}
+.rating {
+  color: #b4690e;
+  font-size: 0.7rem;
+  font-weight: 800;
+}
+
+.rating i {
+  color: #e59819;
+}
