@@ -1,0 +1,11 @@
+footer {
+  margin-top: 50px;
+  height: 70px;
+  width: 100%;
+  background-color: black;
+}
+
+footer .udemy-logo-black {
+  width: 100px;
+  margin: 10px 20px;
+}
